@@ -7,7 +7,7 @@ h1 {
 }
 p {
   font-size: 12px;
-  font-color: green;
+  color: green;
 }
 div.dotted {
   border-style: dotted;
