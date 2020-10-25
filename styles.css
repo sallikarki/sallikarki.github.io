@@ -1,4 +1,7 @@
 body {
   background-color: black;
-  color: blue;
+  color: white;
+}
+h1 {
+  font-size: 20px;
 }
