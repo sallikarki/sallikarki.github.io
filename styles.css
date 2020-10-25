@@ -16,7 +16,7 @@ div.dotted {
   height: 100px;
 }
 ol {
-  type="A"
+  list-style-type: upper-alpha;
 }
 ul {
    list-style-type: square;
