@@ -8,3 +8,10 @@ h1 {
   border-width: 2px;
   text-align: center;
 }
+
+p {
+  background-color: #5cff7d;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+  
