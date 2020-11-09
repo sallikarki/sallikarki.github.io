@@ -1,6 +1,10 @@
 
 #header {
   background-color: yellow;
+   border-style: solid;
+  border-width: 2px;
+  text-align: center;
+  padding: 25px;
 }
 #nav {
   background-color: pink;
