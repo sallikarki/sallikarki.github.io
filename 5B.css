@@ -1,20 +1,20 @@
 
 #header {
-  background-color: yellow;
+  color: white; 
+  background-color: black;
    border-style: solid;
   border-width: 2px;
   text-align: center;
   padding: 25px;
 }
 #nav {
-  background-color: pink;
+  background-color: light-grey;
    border-style: solid;
   border-width: 2px;
   text-align: center;
   padding: 15px;
 }
 #section {
-  background-color: green;
    border-style: solid;
   border-width: 2px;
   text-align: center;
