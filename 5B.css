@@ -2,8 +2,6 @@
 #header {
   color: white; 
   background-color: black;
-   border-style: solid;
-  border-width: 2px;
   text-align: center;
   padding: 25px;
 }
@@ -18,8 +16,6 @@ ul {
   padding: 0;
 }
 #section {
-   border-style: solid;
-  border-width: 2px;
   text-align: center;
   padding: 15px;
 }
