@@ -9,6 +9,7 @@
   float: left; 
   background-color: #DCDCDC;
     padding: 25px;
+  width: 50px;
 }
 ul {
   list-style-type: none;
