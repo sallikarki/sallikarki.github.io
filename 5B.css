@@ -20,6 +20,12 @@ ul {
   padding-left:5%;
   margin-left: 20%;
 }
+#footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 25px;
+  }
 body {
 width: 90%;
 margin-left: auto;
