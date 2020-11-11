@@ -11,7 +11,7 @@
   background-color: #DCDCDC;
     padding: 25px;
   width: 20%; 
-  height: 85%;
+  height: auto;
 }
 a:link {
   text-decoration: none;
