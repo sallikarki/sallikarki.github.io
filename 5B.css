@@ -5,6 +5,10 @@
   text-align: center;
   padding: 25px;
 }
+.col-container {
+    display: table; 
+    width: 100%;
+}
 #nav {
   float: left; 
   background-color: #DCDCDC;
