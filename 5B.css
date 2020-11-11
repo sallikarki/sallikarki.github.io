@@ -5,16 +5,11 @@
   text-align: center;
   padding: 25px;
 }
-.col-container {
-    display: table; 
-    width: 100%;
-}
 #nav {
   float: left; 
   background-color: #DCDCDC;
     padding: 25px;
-  width: 20%;
-    display: table-cell; 
+  width: 20%; 
   margin: none;
 }
 }
@@ -25,7 +20,6 @@ ul {
 #section {
   padding-left:5%;
   margin-left: 20%;
-  display: table-cell;
 }
 #footer {
   background-color: black;
