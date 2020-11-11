@@ -25,6 +25,7 @@ ul {
   color: white;
   text-align: center;
   padding: 25px;
+  position: fixed;
   }
 body {
 width: 90%;
