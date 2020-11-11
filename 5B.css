@@ -11,6 +11,7 @@
     padding: 25px;
   width: 20%; 
   margin: none;
+  display: table-cell;
 }
 }
 ul {
@@ -20,6 +21,7 @@ ul {
 #section {
   padding-left:5%;
   margin-left: 20%;
+  display: table-cell;
 }
 #footer {
   background-color: black;
@@ -33,3 +35,9 @@ width: 90%;
 margin-left: auto;
 margin-right: auto;
 }  
+.col-container {
+    display: table;
+    width: 100%; 
+  }  
+
+
