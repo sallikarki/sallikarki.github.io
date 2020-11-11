@@ -15,11 +15,11 @@
     padding: 25px;
   width: 20%;
     display: table-cell; 
+  margin: none;
 }
 }
 ul {
   list-style-type: none;
-  margin: 0;
   padding: 25px;
 }
 #section {
