@@ -16,6 +16,9 @@
 a:link {
   text-decoration: none;
 }
+a:hover {
+  color: red;
+}
 
 #section {
   padding-left:5%;
