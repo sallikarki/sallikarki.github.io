@@ -1,0 +1,89 @@
+h1 {
+  text-align: center;
+   font-family: Garamond, serif;
+   font-weight: bold;
+}
+.topnav {
+	float: right;
+	padding-bottom: 15px;
+ background-color: #e9e9e9;
+}
+
+.jumbotron {
+  background-image: url("jumbosun55.jpg");
+  background-size: cover;
+    background-position: center center;
+} 
+	
+.footer {
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: black;
+    background-color: #E6E6FA;
+	text-align: center;
+	padding: 20px;
+	margin-top: 25px;
+}
+
+.quote1 {
+	float:right;
+	font-size:small;
+	font-weight: bold;
+}
+
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.quote2 {
+	float:left;
+	font-size:small;
+	font-weight: bold;
+}
+
+th {
+	text-align:center;
+	text-decoration: none;
+}
+
+table, tr, td {
+	padding: 5px;
+}
+
+.boxed {
+  border: 2px solid black ;
+  box-shadow: 10px 10px 8px #888888;
+  box-sizing: border-box;
+  padding:5px;
+   background-color: #FFFACD;
+}
+
+.classWithPad { 
+margin-left:20px; 
+padding-left:10px; 
+}
+
+.thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+#basic {
+	  animation-name: example;
+      animation-duration: 4s;
+	  animation-iteration-count: infinite;
+}
+
+@keyframes example {
+  from {image: url("jumbosun55.jpg");}
+  to {background-image: yellow;}
+}
+
+
+
